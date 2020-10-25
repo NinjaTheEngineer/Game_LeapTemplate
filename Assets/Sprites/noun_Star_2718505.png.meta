@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 89c52c197237ef442a6e2f3a85af8e0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8616681855596168314
+    second: STAR
+  - first:
+      213: -2488637879406374876
+    second: noun_Star_2718505_1
+  - first:
+      213: -3925016028000223767
+    second: noun_Star_2718505_2
+  - first:
+      213: -7508737682902636082
+    second: noun_Star_2718505_3
+  - first:
+      213: -620543971151918513
+    second: noun_Star_2718505_4
+  - first:
+      213: -4610738626496159833
+    second: noun_Star_2718505_5
+  - first:
+      213: -4325002462096533280
+    second: noun_Star_2718505_6
+  - first:
+      213: 1133964009441459020
+    second: noun_Star_2718505_7
+  - first:
+      213: -5579150130084675495
+    second: noun_Star_2718505_8
+  - first:
+      213: 1788985999390072325
+    second: noun_Star_2718505_9
+  - first:
+      213: 4719855562047241863
+    second: noun_Star_2718505_10
+  - first:
+      213: 3344571961306647017
+    second: noun_Star_2718505_11
+  - first:
+      213: 3789929891314633831
+    second: noun_Star_2718505_12
+  - first:
+      213: 4994085183646580943
+    second: noun_Star_2718505_13
+  - first:
+      213: -6735661539156381288
+    second: noun_Star_2718505_14
+  - first:
+      213: 3783305950549159645
+    second: noun_Star_2718505_15
+  - first:
+      213: 5428794275549297587
+    second: noun_Star_2718505_16
+  - first:
+      213: 4095759517136712161
+    second: noun_Star_2718505_17
+  - first:
+      213: -8585411801122440724
+    second: noun_Star_2718505_18
+  - first:
+      213: 403049876268843622
+    second: noun_Star_2718505_19
+  - first:
+      213: -2191214409566933121
+    second: noun_Star_2718505_20
+  - first:
+      213: 7781333116209826638
+    second: noun_Star_2718505_21
+  - first:
+      213: 8637405927991524710
+    second: noun_Star_2718505_22
+  - first:
+      213: 5141195553672073972
+    second: noun_Star_2718505_23
+  - first:
+      213: -4954843504790023011
+    second: noun_Star_2718505_24
+  - first:
+      213: 3690488826219778538
+    second: noun_Star_2718505_25
+  - first:
+      213: -2367778160081017041
+    second: noun_Star_2718505_26
+  - first:
+      213: -7958962009354064497
+    second: noun_Star_2718505_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: STAR
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 134
+        width: 542
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f35420d6f3572345a111e5677fc16d9
+      internalID: -8616681855596168314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

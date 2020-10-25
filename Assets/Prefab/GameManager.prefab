@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3329659202263101980
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3329659202263101982}
+  - component: {fileID: 3329659202263101983}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: GameController
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3329659202263101982
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3329659202263101980}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.89707476, y: 0.2920339, z: -0.22447178}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3329659202263101983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3329659202263101980}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83523a0a2cc39564ca86b2ee3e0c5912, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ads: {fileID: 0}
+  prefsScript: {fileID: 0}
+  skins:
+  - {fileID: 2100000, guid: ba53186b750a8d04ca793d6aeaa074ec, type: 2}
+  - {fileID: 2100000, guid: 25ad0bb7e5cd63441a1e9a4d4c308baf, type: 2}
+  - {fileID: 2100000, guid: 5de18fc77f8a7604cb9c5b6eaa0fc544, type: 2}
+  - {fileID: 2100000, guid: 44d2dc8aec3ce264c87fefbba9d20886, type: 2}
+  - {fileID: 2100000, guid: 7a138ea67e7003d409f545d96dbb7095, type: 2}
+  - {fileID: 2100000, guid: ed78d120529672249a3a0150eb751245, type: 2}
+  - {fileID: 2100000, guid: 3d11782fd2337a44d93bce1bb4f10afe, type: 2}
+  selectedSkin: {fileID: 0}
+  coinsCollected: 0
+  sceneFader: {fileID: 0}
+  coinPrefab: {fileID: 3174626161132058516, guid: 2301996d763ac30498c15c2286cfa534,
+    type: 3}
+  coinsInGameObject: {fileID: 0}
+  coinsInLobbyObject: {fileID: 0}
+  highscoreInGameObject: {fileID: 0}
+  highscoreInLobbyObject: {fileID: 0}
+  highScoreMark: {fileID: 0}
+  coinsInGame: {fileID: 0}
+  coinsInLobby: {fileID: 0}
+  highscoreInGame: {fileID: 0}
+  highscoreInLobby: {fileID: 0}
+  currentScore: {fileID: 0}
+  highScoreMarkText: {fileID: 0}
+  highscoreStar: {fileID: 0}
+  spawnerSpeed: 0.6
+  spawnerMaxDistance: 4
+  timePositionChange: 5
+  spawner: {fileID: 0}
+  timer: 0
+  timeBetweenSpawns: 0.8
+  count: 0
+  gameStarted: 0
+  normalRamp: {fileID: 8947347357800097195, guid: 0afaf2d4760068040a0e876c2455fd4a,
+    type: 3}
+  score: 0
+  highscore: 0
+  hasPassedHighscore: 0
+  rampRange: 0.1

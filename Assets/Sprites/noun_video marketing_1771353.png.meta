@@ -1,0 +1,931 @@
+fileFormatVersion: 2
+guid: 7b22d2db62d520d43b6220ee3c38a98e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7096054088061389371
+    second: VIDEO
+  - first:
+      213: -8060057597433083151
+    second: noun_video marketing_1771353_1
+  - first:
+      213: -676779962543999990
+    second: noun_video marketing_1771353_2
+  - first:
+      213: -1405203175796125421
+    second: noun_video marketing_1771353_3
+  - first:
+      213: 456322215867776601
+    second: noun_video marketing_1771353_4
+  - first:
+      213: 4447480313742657652
+    second: noun_video marketing_1771353_5
+  - first:
+      213: 5468968514280282635
+    second: noun_video marketing_1771353_6
+  - first:
+      213: -1487573501302607023
+    second: noun_video marketing_1771353_7
+  - first:
+      213: -2438945188289248106
+    second: noun_video marketing_1771353_8
+  - first:
+      213: -7540000965473348610
+    second: noun_video marketing_1771353_9
+  - first:
+      213: 3492079568370433577
+    second: noun_video marketing_1771353_10
+  - first:
+      213: -1859046090598247618
+    second: noun_video marketing_1771353_11
+  - first:
+      213: -6688108835343594351
+    second: noun_video marketing_1771353_12
+  - first:
+      213: 2976429700433100478
+    second: noun_video marketing_1771353_13
+  - first:
+      213: -716221832397861021
+    second: noun_video marketing_1771353_14
+  - first:
+      213: -977002737275889239
+    second: noun_video marketing_1771353_15
+  - first:
+      213: 1415246411643627395
+    second: noun_video marketing_1771353_16
+  - first:
+      213: -6535957067524979360
+    second: noun_video marketing_1771353_17
+  - first:
+      213: -9117950963673586438
+    second: noun_video marketing_1771353_18
+  - first:
+      213: 1001306257648101099
+    second: noun_video marketing_1771353_19
+  - first:
+      213: -8034250223489210262
+    second: noun_video marketing_1771353_20
+  - first:
+      213: 7707797854191887090
+    second: noun_video marketing_1771353_21
+  - first:
+      213: -6386076214424265571
+    second: noun_video marketing_1771353_22
+  - first:
+      213: 2028005219218060209
+    second: noun_video marketing_1771353_23
+  - first:
+      213: -513343083151838554
+    second: noun_video marketing_1771353_24
+  - first:
+      213: 2323506647079084881
+    second: noun_video marketing_1771353_25
+  - first:
+      213: 2628668833235661525
+    second: noun_video marketing_1771353_26
+  - first:
+      213: 8993994615126873659
+    second: noun_video marketing_1771353_27
+  - first:
+      213: -6701499149485841245
+    second: noun_video marketing_1771353_28
+  - first:
+      213: 5546127461791772684
+    second: noun_video marketing_1771353_29
+  - first:
+      213: -102088953132521536
+    second: noun_video marketing_1771353_30
+  - first:
+      213: 2185007699300962375
+    second: noun_video marketing_1771353_31
+  - first:
+      213: 2139458151685070520
+    second: noun_video marketing_1771353_32
+  - first:
+      213: -8731486813264133166
+    second: noun_video marketing_1771353_33
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VIDEO
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f585d72fd481c5c4bb76c003f79a929d
+      internalID: -7096054088061389371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01953632361f4a438c6b600d201e502
+      internalID: -8060057597433083151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 68
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153f75b107251d04db8978ab58fd36cb
+      internalID: -676779962543999990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 68
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25284e5fb97be844b9d7c302a6e1fc0
+      internalID: -1405203175796125421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 68
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50cddf3a06a25640aa5bb3c82d4c0f6
+      internalID: 456322215867776601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f476eb9fd28573c4e849a08668a13f3d
+      internalID: 4447480313742657652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 68
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd14d75bc440f3d4c9956cff0b87a580
+      internalID: 5468968514280282635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 68
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c973299793740f74ab09598956d5b4ed
+      internalID: -1487573501302607023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336ee917854f51947baf0c6cb449fd01
+      internalID: -2438945188289248106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_9
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 68
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30880c5a0d3dcba4ab49d67ca1962080
+      internalID: -7540000965473348610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 68
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183a56ff9737dc942bb6f664d4b32967
+      internalID: 3492079568370433577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_11
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 68
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ffaf6718f7ee640bfff520dac25ee7
+      internalID: -1859046090598247618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_12
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 63
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c32ae990af693c4095995b36a2e2d9c
+      internalID: -6688108835343594351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 68
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bdf1fb9a3daa34facf2da2617e8850
+      internalID: 2976429700433100478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 68
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8e7da4f27cb6c4b82e65fe6084325e
+      internalID: -716221832397861021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_15
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 68
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785c36868a8c4f440ad54923a23ade73
+      internalID: -977002737275889239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_16
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 68
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb85c4b932b7a4408e0eec164aa3918
+      internalID: 1415246411643627395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_17
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 68
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e853c7ded9c16c04497c71f33d6e68fe
+      internalID: -6535957067524979360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 68
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44ce528077f6ab4e93df15dc865a749
+      internalID: -9117950963673586438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_19
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 68
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b7bfc4fe1be37468f92a0649b7dd08
+      internalID: 1001306257648101099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_20
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 68
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34981088b454bba48a8572f9b36d6a17
+      internalID: -8034250223489210262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 42
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab67f9b22614c174cb1295a0b73b95bc
+      internalID: 7707797854191887090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 42
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3950ba96ae18cb046ad64ea7c628a285
+      internalID: -6386076214424265571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 42
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7689e56d8e1870940b4adda87c74a38c
+      internalID: 2028005219218060209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 42
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81de0a91fb46ed146bb858b3ce8e9d22
+      internalID: -513343083151838554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 42
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6991db8d675e7da44b11ed126ef723b3
+      internalID: 2323506647079084881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 42
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d2d7f94a12c5546982eb90adbd5d8c
+      internalID: 2628668833235661525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 42
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b156c8b171d766478c8ed4ed983dbf0
+      internalID: 8993994615126873659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_28
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 42
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a303145ce9d620c4ab95a7f4a5936cbe
+      internalID: -6701499149485841245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_29
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 42
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de2947dd971c664e890bac6ea7d2e04
+      internalID: 5546127461791772684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_30
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 37
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d111dfe4227c9ce48a440b732651bcb4
+      internalID: -102088953132521536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 42
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e5d31856da9254a9b891a5d659e61c
+      internalID: 2185007699300962375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_32
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 42
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9e3f4c235130246b45aa1a138dba79
+      internalID: 2139458151685070520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun_video marketing_1771353_33
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 42
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634d4eb2e8aab5f479f58ae3811aed55
+      internalID: -8731486813264133166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e9855fe23b75b0a4a86103c65c04601c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
